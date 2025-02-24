@@ -19,3 +19,4 @@ class ConnectToDatabase {
 }
 
 export default new ConnectToDatabase();
+
